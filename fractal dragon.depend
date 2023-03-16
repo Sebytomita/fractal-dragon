@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1640733820 source:d:\eu\info\fractal dragon\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
+1640771167 d:\eu\info\fractal dragon\graphics2.h
+
+1641118134 source:d:\eu\info\fractal dragon\main.cpp
+	<windows.h>
+	<iostream>
+
